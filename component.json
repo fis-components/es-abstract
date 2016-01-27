@@ -1,0 +1,15 @@
+{
+    "name": "es-abstract",
+    "description": "ECMAScript spec abstract operations.",
+    "repos": "https://github.com/ljharb/es-abstract.git",
+    "main": "index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "function-bind": "^1.0.2",
+        "is-callable": "^1.0.4",
+        "es-to-primitive": "^1.0.0",
+        "is-regex": "^1.0.3"
+    },
+    "version": "1.3.2"
+}
